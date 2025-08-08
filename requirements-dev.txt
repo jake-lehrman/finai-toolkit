@@ -1,0 +1,10 @@
+# Development dependencies for FinAI Toolkit
+pydantic>=1.10
+pytest>=7.0
+ruff>=0.1
+black>=23.7
+mypy>=1.5
+mkdocs>=1.5
+polars>=0.20
+pandas>=2.0
+pandas-market-calendars>=4.0
